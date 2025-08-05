@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+lifelines
+plotly
+matplotlib
+seaborn
+scipy
+joblib
+unittest-xml-reporting
