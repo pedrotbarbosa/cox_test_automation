@@ -280,7 +280,7 @@ def execute_cox_model(df, duration_col, event_col, predictors, labels=None):
 #from google.colab import files
 # Upload file
 #uploaded = files.upload()
-df_model = pd.read_csv('df_model.csv')
+df_model = pd.read_csv("data/df_model.csv")
 
 """
 
