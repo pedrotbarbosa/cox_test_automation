@@ -178,7 +178,7 @@ The <code>lifelines</code> library might not be available by default, so if need
 <dt>
 """
 
-!pip install lifelines --quiet
+#!pip install lifelines --quiet
 
 """---
 
