@@ -277,9 +277,9 @@ def execute_cox_model(df, duration_col, event_col, predictors, labels=None):
 
 """
 
-from google.colab import files
+#from google.colab import files
 # Upload file
-uploaded = files.upload()
+#uploaded = files.upload()
 df_model = pd.read_csv('df_model.csv')
 
 """
@@ -421,9 +421,9 @@ graph.show()
 ### **1. Uploading and Loading the Dataset**
 """
 
-from google.colab import files
+#from google.colab import files
 # Upload file
-uploaded = files.upload()
+#uploaded = files.upload()
 df_map = pd.read_csv('df_map.csv')
 
 """---
